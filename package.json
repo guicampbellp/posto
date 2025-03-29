@@ -1,0 +1,18 @@
+{
+  "name": "posto-de-saude",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "node": "^20.19.0",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^24.4.0"
+  }
+}

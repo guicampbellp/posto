@@ -1,0 +1,9 @@
+2025/03/28-18:38:46.581 4094 Reusing MANIFEST C:\xampp\htdocs\posto\user_data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/28-18:38:46.584 4094 Recovering log #4454
+2025/03/28-18:38:46.606 4094 Reusing old log C:\xampp\htdocs\posto\user_data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004454.log 
+2025/03/28-18:38:47.141 4094 Level-0 table #4468: started
+2025/03/28-18:38:47.157 4094 Level-0 table #4468: 414660 bytes OK
+2025/03/28-18:38:47.159 4094 Delete type=0 #4454
+2025/03/28-18:38:47.160 4094 Manual compaction at level-0 from ' /\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' 0\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/28-18:38:49.551 4d20 Compacting 1@1 + 10@2 files
+2025/03/28-18:38:49.630 4d20 compacted to: files[ 0 1 10 0 0 0 0 ]
